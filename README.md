@@ -20,12 +20,12 @@ This application will show you how to build and secure a register, login account
 - The service will run at here: http://localhost:3000
 
 ## DEMO API
-### 1.Register new user API
+### 1. Register new user API
 POST: http://localhost:9010/register
 
 ![Register new account](./backend/media/register_api.png)
 
-### 2.Login API
+### 2. Login API
 POST: http://localhost:9010/login
 
 Login success:
@@ -37,7 +37,7 @@ Login Invalid Username:
 Login Invalid Password:
 ![Login Invalid Password](./backend/media/invalid_pass_error.png)
 
-### 3.Profile API
+### 3. Profile API
 GET: http://localhost:9010/profile
 
 
